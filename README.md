@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋🏾, I'm Liz</h1>
-<h3 align="left">I'm a front end developer 🎨 from London </h3>
+<h3 align="left">I'm a front end developer 🎨 from the UK </h3>
 
 ---
 ### BIO 📔
-- 🏢 Currently working at ClassPass 🏃🏾‍♀️
+- 🏢 Previously worked at ClassPass 🏃🏾‍♀️ and Kitt 💼
 
 - 🌱 Learning **gatsby** and **tailwind** in my spare time
 
