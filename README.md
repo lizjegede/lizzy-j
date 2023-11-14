@@ -5,7 +5,7 @@
 ### BIO 📔
 - 🏢 Previously worked at ClassPass 🏃🏾‍♀️ and Kitt 💼
 
-- 🌱 Learning **gatsby** and **tailwind** in my spare time
+- 🌱 Learning about **home labbing** in my spare time
 
 - 💬 Ask me about **content design**, **growth hacking** and **frontend dev**
 
